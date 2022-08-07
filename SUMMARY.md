@@ -2,10 +2,10 @@
 
 * [Welcome!](README.md)
 
-## The Company
+## The Basic Things
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Full-text Search](the-basic-things/full-text-search.md)
+* [Meet the Team!](the-basic-things/meet-the-team.md)
 
 ## The Formal Stuff
 
